@@ -21,12 +21,12 @@ conda activate FbScrapper
 ```
 ## 1. Running the workflow (Script Mode)
 --------------------------------------------------------------------------------
-to run the application, we have to run this command:
+To run the application, we have to run this command:
  ``` uvicorn storage:app --reload```
 ## 2. Testing
  ``` pytest test_scrapping.py```
 ## 3. Dockerization:
-to run the docker container, we have to run these commands:
+To dockerize the app, we have to run these commands:
 
 1 - ``` docker-compose build```
 
