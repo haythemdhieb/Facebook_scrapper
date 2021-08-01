@@ -27,6 +27,7 @@ to run the application, we have to run this command:
  ``` pytest test_scrapping.py```
 ## 3. Dockerization:
 to run the docker container, we have to run these commands:
+
 1 - ``` docker-compose build```
 
 2-  ``` docker-compose up```
