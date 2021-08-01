@@ -7,7 +7,7 @@ app = FastAPI()
 
 def get_db():
     try:
-        client = MongoClient("mongodb://haythem:1234@127.0.0.1:27017")
+        client = MongoClient("mongodb://haythem:1234@mongo:27017")
         print("Connected successfully!!!")
         db = client["FbData"]
         return db
