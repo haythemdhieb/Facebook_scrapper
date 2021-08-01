@@ -1,0 +1,18 @@
+name: FbScrapper
+channels:
+  - conda-forge
+dependencies:
+  - pandas=1.0.5
+  - nltk=3.5
+  - pip = 20.0.2
+  - pre-commit
+  - pytest
+  - bs4
+  - pip:
+      - facebook-scraper
+      - pymongo
+      - fastapi
+      - uvicorn
+
+  
+
