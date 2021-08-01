@@ -1,5 +1,5 @@
 # Facebook_scrapper
-In this project, we are going to scrape data from "nous sommes les ingénieurs facebook page".
+In this project, we aim to build a simple application   to scrape data from "nous sommes les ingénieurs facebook page".
 ## Environement Setup
 ================================================================================
 
