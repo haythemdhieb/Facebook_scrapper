@@ -1,8 +1,5 @@
 pip == 20.0.2
-pre-commit
 pytest
-bs4
-pymongo
 facebook-scraper
 pymongo==3.0.2
 fastapi
